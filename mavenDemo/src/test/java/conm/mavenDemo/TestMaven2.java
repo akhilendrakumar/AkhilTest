@@ -6,6 +6,7 @@ public class TestMaven2 {
 	@Test
 	public void test1() {
 		System.out.println("in test1 of TestMaven2 ");
+		
 	}
 	@Test
 	public void test2() {
